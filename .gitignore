@@ -1,0 +1,19 @@
+# the build Mulu 
+build/*
+ 
+# Exclude temp nibs and swap files
+# 
+*~.nib
+*.swp
+ 
+# OS X wenjianjia shuxing 
+.DS_Store
+ 
+# Zaoqi Xcode Moren chansheng de wenjian
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+xcuserdata
